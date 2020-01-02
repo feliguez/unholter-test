@@ -19,7 +19,8 @@ const Div = props => {
 };
 
 Div.propTypes = {
-  backgroundColor: PropTypes.string
+  backgroundColor: PropTypes.string,
+  number: PropTypes.number
 };
 
 export default Div;

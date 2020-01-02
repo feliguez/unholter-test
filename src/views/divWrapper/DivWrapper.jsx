@@ -1,5 +1,4 @@
 import React from 'react';
-import { PropTypes } from 'prop-types';
 import Div from '../../components/Div/Div';
 import './DivWrapper.scss';
 
@@ -20,10 +19,6 @@ const DivWrapper = () => {
       })}
     </div>
   );
-};
-
-DivWrapper.propTypes = {
-  backgroundColor: PropTypes.string
 };
 
 export default DivWrapper;
