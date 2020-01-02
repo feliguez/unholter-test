@@ -1,0 +1,6 @@
+$global-magin: 8px;
+
+.div-wrapper {
+  display: flex;
+  margin-bottom: $global-magin * 2;
+}

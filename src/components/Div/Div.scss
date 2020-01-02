@@ -1,0 +1,16 @@
+$border-black: 1px solid black;
+$global-padding: 8px;
+$global-magin: 8px;
+
+.div {
+  &-box {
+    border: $border-black;
+    margin: $global-magin;
+  }
+  &-info {
+    background: white;
+    border: $border-black;
+    padding: $global-padding * 6;
+    margin: $global-magin;
+  }
+}
