@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Felipe Rodríguez's Div test - an application project for Unholster
 
 ## Available Scripts
 
