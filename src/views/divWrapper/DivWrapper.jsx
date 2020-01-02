@@ -5,7 +5,7 @@ import './DivWrapper.scss';
 
 const DivWrapper = () => {
   const divs = [
-    { backgroundColor: 'blue' },
+    { backgroundColor: '#6d6d6d' },
     { backgroundColor: 'green' },
     { backgroundColor: 'turquoise' }
   ];
